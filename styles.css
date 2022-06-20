@@ -81,4 +81,10 @@ h1 {
 
 .icon {
   width: 3vh;
+  cursor: pointer;
+}
+
+.exchange-rate {
+  text-align: center;
+  padding-top: 30px;
 }
